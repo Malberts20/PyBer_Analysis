@@ -1,37 +1,20 @@
 # PyBer_Analysis
 Module 5
 
-## Overview of the school district analysis
+## Overview of the Pyber analysis
 
 Explain the purpose of this analysis
 
 Resources - Data Source : election_results.csv; Software: Python 3.8; Jupyter Notebook 6.1.1
 
-## School District Results
-Election analysis shows:
-- There were 369,711 votes cast in the election
- 
-- County votes:
-  - Jefferson county has 38,855 votes or 10.5% of the total
-  - Denver county has 306,055 votes or 82.8% of the total
-  - Arapahoe county has 24,801 votes or 6.7% of the total
-- Largest county turnout was Denver  
- 
-- The candidate results were:
-  - Charles Casper Stockham received 85,213 votes or 23.0% of the total 
-  - Diana DeGette received 272,892 votes or 73.8% of the total
-  - Raymon Anthony Doane received 11,606 votes or 3.1% of the total
-- The winner of the election was Diana DeGette with 73.8% of the total with a 272,892 vote count
+## PyBer Results
 
-Reference results below from Spyder terminal (left inage) and from Election_Analysis.txt file (right image):
+Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
-## Election Audit Summary
+## Pyber Summary
 
-The election winner was Diana Degette with 73.8% of the vote; Denver had the largest county turnout with 82.8% of the vote.
+Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-This code can be utilized for future elections as candidates and counties are created from input file.  
-
-Python code modifications could be made to provide a more comprehensive review of Candidate results by County or conversly to evaluate the County perfomance by candidate.
-  
-  
+There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)

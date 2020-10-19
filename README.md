@@ -3,9 +3,9 @@
 ## Overview of the PyBer analysis
 
 Perform an exploratory analysis of ride sharing data by creating visualizations using Pandas and Matplotlib libraries.  This analysis will be utilized to 
-improve access to ride sharing services and determine affordability for under served neighborhoods.
+improve access to ride sharing services and determine affordability for underserved neighborhoods.
 
-Resources - Data Source : election_results.csv; Software: Python 3.8; Jupyter Notebook 6.1.1; Libraries: Pandas, Matplotlib
+Resources - Data Source : city_data.csv, ride_data.csv; Software: Python 3.8; Jupyter Notebook 6.1.1; Libraries: Pandas, Matplotlib
 
 ## PyBer Results
 

@@ -10,11 +10,16 @@ Resources - Data Source : city_data.csv, ride_data.csv; Software: Python 3.8.5; 
 ## PyBer Results
 Ride sharing data is below:
 
+![Data_frame_summary](https://user-images.githubusercontent.com/71353552/97111297-acd43200-16a3-11eb-9357-1c65a17bcb5a.PNG)
+
+![Pyber_fare_summary](https://user-images.githubusercontent.com/71353552/97111303-b198e600-16a3-11eb-91f8-35c4fddf2769.png)
+
+Results:
 
 
 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 
 ## PyBer Summary
 

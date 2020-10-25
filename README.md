@@ -5,13 +5,14 @@
 Perform an exploratory analysis of ride sharing data by creating visualizations using Pandas and Matplotlib libraries.  This analysis will be utilized to 
 improve access to ride sharing services and determine affordability for underserved neighborhoods.
 
-Resources - Data Source : city_data.csv, ride_data.csv; Software: Python 3.8; Jupyter Notebook 6.1.1; Libraries: Pandas, Matplotlib
+Resources - Data Source : city_data.csv, ride_data.csv; Software: Python 3.8.5; Jupyter Notebook 6.1.4; Libraries: Pandas, Matplotlib
 
 ## PyBer Results
+Ride sharing data is below:
 
 
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 

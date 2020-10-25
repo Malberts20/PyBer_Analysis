@@ -23,9 +23,9 @@ Results:
 
 ## PyBer Summary
 
-Based on the above results, recommedations would be to reduce the number of drivers in the Urban area and add drivers in the Suburban and Rural areas.  These driver changes will help in "flattening" the normailization ratios, particularly for the Rural and Urban areas:
+Based on the above results, recommedation would be to reduce the number of drivers in the Urban area and add drivers in the Suburban and Rural areas.  These driver changes will help in "flattening" the normailization ratios, particularly for the Rural and Urban areas.  Initial recommendation would be:
   1. Add 50 drivers to Rural
   2. Add 100 drivers to Suburban
   3. Reduce 400 drivers in Urban
-  4. Continue to measure results and adjust as needed 
-  
+
+Continue to measure results monthly and adjust drivers as needed to "flatten" ratios. 
